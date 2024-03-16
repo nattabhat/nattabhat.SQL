@@ -1,2 +1,1 @@
-# nattabhat.github.io
-SQL Exercises
+These are exercises that I practiced from youtube videos and ChatGPT
