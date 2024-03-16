@@ -1,2 +1,2 @@
-# nattabhat.gitgub.io
+# nattabhat.github.io
 SQL Exercises
